@@ -13,9 +13,7 @@
 
 <param ve-entity eid="Q733" title="Paraguay">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
-label="Gauchos drinking mate" 
-       description="Photograph. Attribution. Insitution"  
-       license="public domain"> 
+label="Gauchos drinking mate" description="Photograph. Attribution. Insitution" license="public domain"> 
      
 ## History 
 
